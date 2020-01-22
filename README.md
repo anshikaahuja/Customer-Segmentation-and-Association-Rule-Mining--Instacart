@@ -1,5 +1,5 @@
 # Customer-Segmentation-and-Association-Rule-Mining--Instacart
-Used PCA to perform customer segmentation and identified target and ideal clusters. Implemented association rule mining and built a recommendation engine to suggest items to customers
+Used PCA to perform customer segmentation and identified target and ideal clusters. Implemented association rule mining and built a recommendation engine to suggest products to customers
 
 ## Team Members:
 - Anshika Ahuja
@@ -13,3 +13,5 @@ Used PCA to perform customer segmentation and identified target and ideal cluste
 - [Data Used](https://github.com/anshikaahuja/Customer-Segmentation-and-Association-Rule-Mining--Instacart/blob/master/README.md#data-used)
 - [Approach](https://github.com/anshikaahuja/Customer-Segmentation-and-Association-Rule-Mining--Instacart/blob/master/README.md#approach)
 - [Analysis and Insights](https://github.com/anshikaahuja/Customer-Segmentation-and-Association-Rule-Mining--Instacart/blob/master/README.md#analysis-and-insights)
+
+
