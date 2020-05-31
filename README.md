@@ -13,8 +13,8 @@ The task at hand for Instacart is two fold.
 
 ## Approach/Methodology Used
 * **Data merging and data matrix creation** - Joined multiple tables to get final dataframe at a customer level with all individual product aisles as columns and values under those columns represeting the number of times customer bought from those aisles
-* **PCA** - Reduced data across 134 columns to 6 principal components explaining 51% of the original variance
-* **K-means clustering** - Used pc's to cluster segments into 3 distinct clusters backed by business intution and elbow plot
+* **PCA** - Reduced data across 134 columns to 2 principal components explaining 51% of the original variance
+* **K-means clustering** - Used pc's to cluster segments into 3 distinct clusters backed by business intuition and elbow plot
 * **Association based Recommender System 1** - Implemented the apriori algorithm using python generator functions, setting min support to 0.01 and filtering for lift values more than 10
 * **Recommender System 2** - Created a heuristic recommendation based on a products repeat ordering frequency from the ideal customer segment. Suggesting such products to target customers buying products with less repetition
 
