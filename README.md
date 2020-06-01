@@ -7,8 +7,8 @@ Back in 2017, the company announced its first public dataset release, which is a
 
 ## Business Problem
 The task at hand for Instacart is two fold.
-1. Customer Profiling - Understanding the different mix of your customers is the key to any successful business. What are the different customer segments? How do their behaviour patterns differ from each other? 
-2. Customer Targetting - Which segments to target to maximise profitability?
+1. Customer Profiling - Understanding the different mix of your customers is the key to any successful business. What are the different customer segments? How do their behaviur patterns differ from each other? 
+2. Customer Targeting - Which segments to target to maximize profitability?
 3. Product Recommendations - Once you've identified your target customers, what products to recommend?
 
 ## Approach/Methodology Used
